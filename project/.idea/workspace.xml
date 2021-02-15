@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0929b51b-675d-403e-be2b-91c65abf3707" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Atelier_SOA\IntelliJ\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mKsLja62NqUr25rv1t3QfYGHuX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="services" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0929b51b-675d-403e-be2b-91c65abf3707" name="Default Changelist" comment="" />
+      <created>1609253563685</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609253563685</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1610414497223">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1610414497223" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609258575654">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1609258575654" />
+    <state width="1323" height="175" key="GridCell.Tab.0.bottom" timestamp="1610552393064">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610552393064" />
+    <state width="1323" height="175" key="GridCell.Tab.0.center" timestamp="1610552393063">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610552393063" />
+    <state width="1323" height="175" key="GridCell.Tab.0.left" timestamp="1610552393063">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610552393063" />
+    <state width="1323" height="175" key="GridCell.Tab.0.right" timestamp="1610552393063">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610552393063" />
+    <state x="386" y="0" key="new project wizard" timestamp="1609360509439">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="386" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1609360509439" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+127.0.0.1 - - [13/Jan/2021:16:43:12 +0100] "GET /webAppREST/rest/result/getAll HTTP/1.1" 200 143 http-bio-9999-exec-1 1088
+127.0.0.1 - - [13/Jan/2021:16:43:15 +0100] "GET /webAppREST/rest/joueur/getAll HTTP/1.1" 200 359 http-bio-9999-exec-2 102
+127.0.0.1 - - [13/Jan/2021:16:43:15 +0100] "GET /webAppREST/rest/equipe/getAll HTTP/1.1" 200 148 http-bio-9999-exec-3 35
+127.0.0.1 - - [13/Jan/2021:16:43:20 +0100] "GET /webAppREST/rest/result/getAll HTTP/1.1" 200 143 http-bio-9999-exec-4 29
